@@ -284,8 +284,8 @@ pharos/
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/your-org/pharos.git
-cd pharos
+git clone https://github.com/priy0767/Pharos
+cd Pharos
 pip install -r requirements.txt
 ```
 
