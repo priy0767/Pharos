@@ -378,7 +378,7 @@ All analysis runs on samples from **public threat intelligence repositories** or
 
 **Problem Statement:** Generative AI-Based Automated Analysis and Risk Scoring of Fraudulent APKs
 
-**Team:** PHAROS
+**Team:** ByteBreachers
 
 **Version:** Bank-Grade · RBI/CERT-In Aligned · India-Specific
 
